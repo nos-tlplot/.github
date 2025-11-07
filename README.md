@@ -1,5 +1,4 @@
 
-![Logo](assets/preview1.png)
 [![Python Version](https://img.shields.io/badge/python-3.12+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-orange)](https://nos-tlplot.streamlit.app)
@@ -31,17 +30,9 @@ It converts NOS star ratings into **publication-ready traffic-light plots** and 
 
 - Vercel web leading to Streamlit → [nos-tlplot.vercel.app](https://nos-tlplot.vercel.app)
 
-![Example Result33](example/Screenshot3.png)
-Vercel user-interface
-
 ---
 
 - To directly use it → [nos-tlplot.streamlit.app](https://nos-tlplot.streamlit.app)
-
-![Example Result11](example/Screenshot1.png)
-
-![Example Result22](example/Screenshot2.png)
-Streamlit user-interface
 
 ---
 
@@ -263,56 +254,3 @@ NOS-TLPlot/
 ├── examples               # All the Sample outputs
 
 ```
-
----
-
-# Sample Plots
-
-All the Output Sample plots
-
-![Example Result1111](example/NOS_star.png)
-NOS star plot
-
-
-![Example Result1](example/output.png)
-NOS bubble plot
-
-
-![Example Result2](example/output_radar.png)
-Domain Scores Radar Chart by Study
-
-
-![Example Result3](example/output_theme_radar.png)
-Theme-based Domain Scores Radar Chart
-
-
-![Example Result4](example/output_line_ordered.png)
-Domain Scores Ordered by Total Score
-
-
-![Example Result5](example/output_lollipop.png)
-Total NOS Scores by Study (Lollipop Chart)
-
-
-![Example Result6](example/output_dot_profile.png)
-Domain Score Profiles by Study
-
-
-![Example Result7](example/output_stacked_area.png)
-Risk Distribution by Domain (Stacked Area Chart)
-
-
-![Example Result8](example/output_donut.png)
-Risk Donut Distribution by Domain
-
-
-![Example Result9](example/output_pie.png)
-Distribution of Overall Risk of Bias Pie
-
-
-![Example Result10](example/output_heatmap.png)
-Risk of Bias by Domain and Study by heatmap
-
-
-![Example Result11](example/output_table.png)
-NOS Scores by Study

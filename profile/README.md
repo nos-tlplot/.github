@@ -3,7 +3,7 @@
 
 
 
-🔗 **Interactive web app:** [nos-tlplot.vercel.app](https://nos-tlplot.vercel.app)
+🔗 **Interactive web app:** [nos-tlplot.github.io](https://nos-tlplot.github.io)
 
 📂 **Code & archive (Zenodo DOI):** [10.5281/zenodo.17065214](https://doi.org/10.5281/zenodo.17065214)
 

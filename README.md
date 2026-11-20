@@ -13,7 +13,7 @@ It converts NOS star ratings into **publication-ready traffic-light plots** and 
 
 | Repository | What it is |
 | ---------- | ---------- |
-| [aurumz-rgb/NOS-TLPlot](https://github.com/aurumz-rgb/NOS-TLPlot) | Main repository — Streamlit web app and the plotting engine |
+| [aurumz-rgb/NOS-TLPlot](https://github.com/aurumz-rgb/NOS-TLPlot) | Main repository: Streamlit web app and the plotting engine |
 | [NOS-TLPlot-Package](https://github.com/nos-tlplot/NOS-TLPlot-Package) | The `nos-tlplot` Python package on [PyPI](https://pypi.org/project/nos-tlplot/) |
 | [nos.tlplotR](https://github.com/nos-tlplot/nos.tlplotR) | The `nos.tlplotR` R package, the official R interface ([docs](https://nos-tlplot.github.io/nos.tlplotR/)) |
 | [nos-tlplot.github.io](https://github.com/nos-tlplot/nos-tlplot.github.io) | The website and this organization's GitHub Pages |
